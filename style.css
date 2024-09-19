@@ -1,0 +1,39 @@
+body {
+     background: rgb(216, 170, 42);
+    color: white;
+    margin: 0px;
+    font-family: "Playfair Display", system-ui;
+}
+header{ 
+    border-bottom: solid 2px rgb(58, 235, 96); 
+    padding: 20px;
+    font-size: 50;
+}
+section{ 
+    display: flex;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background: rgb(245, 242, 86);
+    justify-content: center;
+}   
+.titulo-video{
+    margin-right: 10%;
+    font-size: 20px;
+}
+img{ 
+    height: 200px;
+
+}
+
+categoria-videos{  
+      Display: flex;
+      padding-left: 20px;
+      padding-right: 20px;
+}
+
+.imgcategoria-videos{ 
+      gap: 20px;
+      overflow-x: auto;
+}
+
+   
